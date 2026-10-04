@@ -1,6 +1,8 @@
 # Portfolio
 
-Projets classés par première trace retrouvée, puis projets dont la date d'origine n'est pas établie. Ces dates ne sont pas des dates de mise en ligne. La publication du portfolio a commencé le 4 octobre 2026. Les archives ZIP GitHub contiennent les sources, pas des applications installables. Les états décrivent les vérifications disponibles, pas une garantie de fonctionnement en production.
+Ce profil rassemble les projets logiciels que j’ai réalisés ou explorés, classés par première trace retrouvée. Il permet de comprendre rapidement le sujet de chaque projet, son usage, les technologies mobilisées et ce qui a réellement été vérifié.
+
+Les dates ci-dessous ne sont pas des dates de mise en ligne. Les archives ZIP contiennent les sources, pas des applications installables. Les états décrivent les vérifications disponibles, pas une garantie de fonctionnement en production.
 
 ## Projets datés
 
