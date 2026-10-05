@@ -1,36 +1,44 @@
-# Portfolio
+# Mon parcours et mes projets numériques
 
-Ce profil rassemble les projets logiciels que j’ai réalisés ou explorés, classés par première trace retrouvée. Il permet de comprendre rapidement le sujet de chaque projet, son usage, les technologies mobilisées et ce qui a réellement été vérifié.
+Depuis mars 2026, je travaille sur des sites Internet et des prototypes d'outils numériques, avec l'aide d'outils d'intelligence artificielle. Je suis à l'origine des besoins, des choix de contenu et de présentation, puis je fais évoluer les réalisations par essais et corrections.
 
-Les dates ci-dessous ne sont pas des dates de mise en ligne. Les archives ZIP contiennent les sources, pas des applications installables. Les états décrivent les vérifications disponibles, pas une garantie de fonctionnement en production.
+Ces projets m'aident à construire une activité autour de la création de sites pour des entreprises locales et de l'organisation de leurs informations. Ils montrent aussi les pistes que j'ai explorées et ce qu'il me reste à valider.
 
-## Projets datés
+## Mon projet principal : Sinnes Automobiles
 
-| Première trace | Projet | Objet | Stack | État vérifié | Sources |
-|---|---|---|---|---|---|
-| 2026-03-02 | Le Mazet / CalenShare | Calendrier partagé et propositions de dates | Next.js, Supabase | Build avec configuration fictive ; parcours connecté non validé | [Dépôt](https://github.com/cpointis96-hue/le-mazet) · [ZIP](https://github.com/cpointis96-hue/le-mazet/archive/HEAD.zip) |
-| 2026-03-15 | Sinnes Automobiles | Site vitrine pour serrurerie automobile | Next.js, React | Build et contrôles navigateur ; contenu métier à revoir | [Dépôt](https://github.com/cpointis96-hue/sinnes-nextjs) · [ZIP](https://github.com/cpointis96-hue/sinnes-nextjs/archive/HEAD.zip) |
-| 2026-04-06 | NomadSync | Exploration et comparaison de villes | Next.js, MapLibre | Prototype incomplet ; métriques en partie statiques | [Dépôt](https://github.com/cpointis96-hue/nomadsync) · [ZIP](https://github.com/cpointis96-hue/nomadsync/archive/HEAD.zip) |
-| 2026-04-30 | Personal OS | Cockpit desktop multi-outils | Tauri, React, SQLite | Frontend construit ; application native à vérifier | [Dépôt](https://github.com/cpointis96-hue/personal-os) · [ZIP](https://github.com/cpointis96-hue/personal-os/archive/HEAD.zip) |
-| 2026-05-14 | Tent Scraper | Collecte de fiches produit et synchronisation | Python, Playwright, Claude, NocoDB | Tests simulés ; services réels non vérifiés | [Dépôt](https://github.com/cpointis96-hue/tente-scraperv2) · [ZIP](https://github.com/cpointis96-hue/tente-scraperv2/archive/HEAD.zip) |
-| 2026-05-16 | TubeExtract | Préparation de téléchargements média Android | Kotlin, Compose, yt-dlp | APK debug ouvert sur émulateur ; médias réels non testés | [Dépôt](https://github.com/cpointis96-hue/App-android) · [ZIP](https://github.com/cpointis96-hue/App-android/archive/HEAD.zip) |
-| 2026-05-16 (plan) | MatosTrek | Catalogue de matériel de randonnée | React, SQLite, scripts | Prototype alternatif conservé ; maquette Claude originale perdue | [Dépôt](https://github.com/cpointis96-hue/matostrek) · [ZIP](https://github.com/cpointis96-hue/matostrek/archive/HEAD.zip) |
-| 2026-08-17 | Ancrage / Website Factory | Préparation de dossiers et workflows de sites | Node.js, HTML, CSS, JavaScript | Tests locaux ; fournisseurs réels non validés | [Dépôt](https://github.com/cpointis96-hue/business-site-factory) · [ZIP](https://github.com/cpointis96-hue/business-site-factory/archive/HEAD.zip) |
-| 2026-08-18 | Local AI Library | Inventaire de modèles IA locaux | Swift, SwiftUI | Sources conservées ; build natif bloqué par licence Xcode | [Dépôt](https://github.com/cpointis96-hue/local-ai-library) · [ZIP](https://github.com/cpointis96-hue/local-ai-library/archive/HEAD.zip) |
-| 2026-08-19 | Agent Lab | Conception et simulation d’architectures d’agents | Tauri, Rust, React | Frontend vérifié ; build natif à reprendre | [Dépôt](https://github.com/cpointis96-hue/agent-lab) · [ZIP](https://github.com/cpointis96-hue/agent-lab/archive/HEAD.zip) |
-| 2026-08-20 (socle) | Flight Verifier | Vérification structurée de résultats de vols | Python | Tests sur fixtures ; aucun client réseau livré | [Dépôt](https://github.com/cpointis96-hue/flight-verifier) · [ZIP](https://github.com/cpointis96-hue/flight-verifier/archive/HEAD.zip) |
-| 2026-08-21 | Autonomous Video Studio | Préparation de timelines vidéo locales | zsh, FFmpeg, JSON | Workflow CLI vérifié sur médias synthétiques | [Dépôt](https://github.com/cpointis96-hue/autonomous-video-studio) · [ZIP](https://github.com/cpointis96-hue/autonomous-video-studio/archive/HEAD.zip) |
-| 2026-09-14 | Vérif Scoot | Inspection comparative de scooters | Kotlin, Compose, OpenCV | Tests et APK debug sur émulateur ; scooters réels non évalués | [Dépôt](https://github.com/cpointis96-hue/verif-scoot) · [ZIP](https://github.com/cpointis96-hue/verif-scoot/archive/HEAD.zip) |
-| 2026-09-25 | ITALAO | Site vitrine de restaurant multilingue | Astro, TypeScript | Build et parcours local vérifiés ; disponibilité Netlify non confirmée | [Dépôt](https://github.com/cpointis96-hue/italao-website) · [ZIP](https://github.com/cpointis96-hue/italao-website/archive/HEAD.zip) |
+J'ai consacré plus de trois mois de travail intensif à ce site pour une activité de serrurerie automobile à Nice. C'est ma réalisation la plus approfondie : étude des concurrents, travail de référencement naturel, contenus par service et par marque, présentation des tarifs, navigation et adaptation au téléphone.
 
-La date MatosTrek provient d'un document de planification, pas de l'ensemble des fichiers. Celle de Flight Verifier marque la première trace du socle, pas un client réseau achevé.
+[Voir la présentation et les captures de Sinnes Automobiles](https://github.com/cpointis96-hue/sinnes-nextjs#readme)
 
-## Date d'origine non établie
+Le site se consulte sur son ordinateur après téléchargement et lancement local. Sa fiche explique les étapes. Les captures permettent aussi de voir le résultat sans installer de programme.
 
-| Projet | Objet | Stack | État vérifié | Sources |
-|---|---|---|---|---|
-| Bangkok, carte des quartiers | Carte interactive et fiches de quartiers | HTML, CSS, JavaScript, Leaflet | [Démo publique](https://cpointis96-hue.github.io/bangkok-neighborhood-map/) vérifiée ; données touristiques de prototype | [Dépôt](https://github.com/cpointis96-hue/bangkok-neighborhood-map) · [ZIP](https://github.com/cpointis96-hue/bangkok-neighborhood-map/archive/HEAD.zip) |
-| ScrollScrub, AURA X1 | Animation de produit pilotée par le défilement | Vite, GSAP, Canvas | Démo locale construite ; aucun site hébergé annoncé | [Dépôt](https://github.com/cpointis96-hue/scrollscrub) · [ZIP](https://github.com/cpointis96-hue/scrollscrub/archive/HEAD.zip) |
-| ytdlp-extractor | Téléchargement audio/vidéo et sous-titres | Python, CustomTkinter, yt-dlp | Tests locaux ; navigation graphique complète non validée | [Dépôt](https://github.com/cpointis96-hue/ytdlp-extractor) · [ZIP](https://github.com/cpointis96-hue/ytdlp-extractor/archive/HEAD.zip) |
+## Les projets que je présente
 
-Périmètre : sources locales, cinq dépôts historiques et 88 conversations archivées de mai à août 2026. D'autres projets peuvent manquer. Les copies publiées gardent l'historique d'origine lorsqu'il était réutilisable ; certains snapshots commencent un nouvel historique pour exclure des données privées. Les notices de chaque dépôt détaillent les contrôles et les limites.
+| Projet | Besoin étudié et travail réalisé | Comment le découvrir |
+| --- | --- | --- |
+| [Sinnes Automobiles](https://github.com/cpointis96-hue/sinnes-nextjs#readme) | Présenter une activité locale, répondre aux recherches de ses clients et faciliter la prise de contact. | Captures et ouverture du site sur ordinateur. |
+| [Website Factory, Ancrage](https://github.com/cpointis96-hue/business-site-factory#readme) | Organiser la préparation de dossiers d'entreprise, les audits et les étapes de fabrication d'un site. | Explication et lancement du prototype sur ordinateur. |
+| [CalenShare](https://github.com/cpointis96-hue/le-mazet#readme) | Organiser des événements et comparer les disponibilités dans un calendrier partagé. | Présentation et captures ; utilisation complète encore à valider. |
+| [Vérif Scoot](https://github.com/cpointis96-hue/verif-scoot#readme) | Documenter l'état d'un scooter au départ et au retour d'une location. | Captures et description du parcours Android. |
+| [Collecte de fiches produit](https://github.com/cpointis96-hue/tente-scraperv2#readme) | Rassembler les caractéristiques de tentes pour préparer un catalogue et comparer des produits. | Explication de la méthode ; outil technique à configurer. |
+| [Méthodes Business](https://github.com/cpointis96-hue/methodes-business#readme) | Structurer un audit de visibilité locale, une comparaison de concurrents et une étude de marché. | Fiches de méthodes réutilisables, lisibles sans installation. |
+
+## Ce que j'apprends et mets en pratique
+
+- Comprendre un besoin et organiser les informations utiles aux clients.
+- Étudier un secteur et ses concurrents avant de choisir le contenu d'un site.
+- Préparer des pages pour le référencement naturel, c'est-à-dire leur visibilité dans les moteurs de recherche.
+- Concevoir des parcours sur ordinateur et téléphone, puis contrôler leur résultat.
+- Utiliser l'IA pour avancer sur des réalisations et formaliser des méthodes de travail.
+
+## Repères dans mon parcours
+
+Les premières traces conservées situent CalenShare et Sinnes en mars, la collecte de fiches produit en mai, Website Factory en août et Vérif Scoot en septembre 2026. La préparation du dépôt de méthodes date d'octobre 2026.
+
+Les dates des travaux et celles de leur publication sur GitHub sont différentes : les dossiers ont été regroupés et documentés en octobre. La durée de travail sur Sinnes est celle que je rapporte ; l'historique GitHub ne couvre pas à lui seul toutes les recherches et toutes les versions.
+
+## Pour lire ces dossiers
+
+Chaque lien ouvre une fiche de présentation, appelée README sur GitHub. Il suffit de faire défiler la page pour la lire. Le bouton « Code », puis « Download ZIP », télécharge les fichiers du projet ; ce téléchargement n'installe pas automatiquement le site ou l'application.
+
+Les fiches indiquent les résultats disponibles et les étapes encore nécessaires pour chaque prototype.
