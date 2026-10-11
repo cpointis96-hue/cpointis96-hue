@@ -31,8 +31,6 @@ Ces projets ne sont pas présentés comme plusieurs activités commerciales déj
 
 Valider les connexions et les plafonds de coût sur un dossier de test autorisé, vérifier les sources et la qualité des audits, préciser une première prestation et son prix, puis confronter cette offre aux besoins de clients potentiels. Les échéances doivent être fixées en fonction des résultats des essais.
 
-## L'accompagnement que je souhaite demander
+## Priorités pour la suite
 
-Je souhaite échanger avec ma conseillère sur l'intégration de ce projet dans mon parcours professionnel et sur l'accompagnement utile pour définir l'offre, étudier la demande et préparer les premières démarches commerciales.
-
-Ce document présente mon projet et son avancement. Il ne remplace pas les informations administratives de mon dossier ni les justificatifs de démarches qui seront demandés.
+Valider les connexions et les plafonds de coût sur un dossier de test autorisé, vérifier les sources et la qualité des audits, préciser une première prestation et son prix, puis confronter cette offre aux besoins de clients potentiels. Les échéances dépendront des résultats des essais.
